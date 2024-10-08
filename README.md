@@ -1,6 +1,35 @@
 # prototype_1_gym_app
 
 A new Flutter project.
+Intended to be a functional or at least a semi functional app. 
+Intended to run on ios or both ios and android.
+
+## Ideaa behind app
+
+Screen #1
+Scrollable list of all previously recorded workout by date.
+
+features:
+Plus button to add a new workout
+
+
+
+Screen #2 
+Is what you get when tapping on a given workout to get more details.
+
+features: edit the workout parameters..
+- number of sets
+- number of excersizes
+- workout duration
+- workout date
+
+
+Hopefuly we can add data represention down the line (heat map, grapghs, push notifications)
+
+But first we need a functional app.
+
+
+
 
 ## Getting Started
 
